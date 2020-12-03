@@ -1,2 +1,2 @@
-def test_shim():
+def test_shim(sklearn_wrap_path):
     assert True

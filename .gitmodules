@@ -1,0 +1,4 @@
+[submodule "sklearn-wrap"]
+	path = sklearn-wrap
+	url = https://gitlab.com/datadrivendiscovery/sklearn-wrap.git/
+	branch = devel

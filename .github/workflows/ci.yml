@@ -9,6 +9,8 @@ jobs:
     steps:
       - name: Checkout
         uses: action/checkout@2
+        with:
+          submodules: true
 
       - name: Set up Python 3.6
         uses: action/setup-python@v2
